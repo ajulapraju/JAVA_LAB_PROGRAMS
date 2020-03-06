@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package java_lab1;
+package Java_Lab1;
 
 /**
  *
- * @author MCALAB01021
+ * @author MCALAB01021 Ajula
  */import java.util.*;
 public class Cin
 {
