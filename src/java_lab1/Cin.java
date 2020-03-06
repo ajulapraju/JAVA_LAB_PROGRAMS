@@ -20,6 +20,7 @@ public class Cin
         this.r=r;
         a=3.14*r*r;
         System.out.println("area of circle:"+a);
+             System.out.println("area of circle:"+a);
        
        
     }
