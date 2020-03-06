@@ -9,8 +9,8 @@ package java_lab6;
  *
  * @author MCALAB01021
  */import java.util.*;
-Interface Shape 
+/*Interface Shape 
 {
    void meth1();
     meth2();
-}
+}*/

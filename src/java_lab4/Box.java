@@ -5,11 +5,8 @@
  */
 package java_lab4;
 
-import java.awt.Rectangle;
-/**
- *
- * @author MCALAB01021
- */import java.util.*;
+
+ import java.util.*;
 class Box 
 {
  int l,b;
@@ -27,7 +24,7 @@ class Box
         System.out.println("Area of rectangle is : "+(l*b));
     }
 }
-  public class Box extends Rectangle
+ class Rectangle extends Box
 {
     Scanner s=new Scanner(System.in);
     void read()
@@ -41,13 +38,12 @@ class Box
     {
         int a=l*super.b*super.l;
     System.out.println("Area of Box is : "+a);
-    display();
     }
     public static void main(String args[])
     {
         Box b=new Box();
         b.read();
-        b.area();
+       // b.area();
        
     }
 }

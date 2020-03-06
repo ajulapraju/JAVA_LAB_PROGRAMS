@@ -12,12 +12,11 @@ package java_lab1;
 public class Sstatic 
 {
 int x;
-Static int sx;
-}
-Class Data
-{
+static int sx;
+
     public static void main(String args[])
     {
-    Sstatic s=new Sstatic()
-    Sstatic. sx;   
+    Sstatic s=new Sstatic();
+     System.out.println(Sstatic. sx);   
+}
 }

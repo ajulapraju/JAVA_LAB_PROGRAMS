@@ -15,10 +15,10 @@ package java_lab2;
      *
      * @param args
      */
-    public static void main(String args[] "a","b")
+    //public static void main(String args[] "a","b")
     {
         String[] b = null;
-         System.out.println("Argument one = "+b[0]);
+         //System.out.println("Argument one = "+b[0]);
          System.out.println("Argument two = "+b[1]);
     }
       

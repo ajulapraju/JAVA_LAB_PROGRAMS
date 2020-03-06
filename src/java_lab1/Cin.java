@@ -42,7 +42,7 @@ public class Cin
     }
    
 }
-   public class Inherit extends Bin
+  class Inherit extends Bin
     {
         public static void main(String a[])
         {
