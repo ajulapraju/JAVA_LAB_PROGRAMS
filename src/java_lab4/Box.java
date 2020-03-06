@@ -38,13 +38,14 @@ class Box
     {
         int a=l*super.b*super.l;
     System.out.println("Area of Box is : "+a);
+         System.out.println("Area of Box is : "+a);
     }
     public static void main(String args[])
     {
         Box b=new Box();
         b.read();
        // b.area();
-       
+       //
     }
 }
 
